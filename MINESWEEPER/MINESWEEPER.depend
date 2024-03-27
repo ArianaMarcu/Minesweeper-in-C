@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1668285873 source:c:\users\ary\desktop\minesweeper\minesweeper.c
+	<stdio.h>
+	<stdlib.h>
+	"minesweeper.h"
+
+1668286359 source:c:\users\ary\desktop\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minesweeper.h"
+
+1668283893 c:\users\ary\desktop\minesweeper\minesweeper.h
+
+1672655692 source:c:\users\ary\desktop\recontractare pc\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minesweeper.h"
+	<string.h>
+
+1671392470 c:\users\ary\desktop\recontractare pc\minesweeper\minesweeper.h
+
+1671400795 source:c:\users\ary\desktop\recontractare pc\minesweeper\minesweeper.c
+	<stdio.h>
+	<stdlib.h>
+	"minesweeper.h"
+	<string.h>
+
+1672655692 source:d:\de pe desktop\recontractare pc\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minesweeper.h"
+	<string.h>
+
+1671392470 d:\de pe desktop\recontractare pc\minesweeper\minesweeper.h
+
+1671400795 source:d:\de pe desktop\recontractare pc\minesweeper\minesweeper.c
+	<stdio.h>
+	<stdlib.h>
+	"minesweeper.h"
+	<string.h>
+
